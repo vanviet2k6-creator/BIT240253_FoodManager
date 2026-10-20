@@ -1,0 +1,18 @@
+Video 2 – Mai Van Viet – BIT240253
+Giọng đọc tổng hợp, không phải giọng sinh viên.
+
+00:00 Giới thiệu và tên project
+00:28 Công nghệ và cấu trúc
+01:04 Model và quan hệ dữ liệu
+01:40 Tiền tố MSSV cho bảng và trường
+02:25 SQLite, khóa ngoại và ảnh đại diện
+03:03 Luồng đọc, lưu và hàng đợi offline
+03:42 Danh sách, tìm kiếm và bộ lọc
+04:23 CRUD, validation và xử lý lỗi
+04:58 Nhiều ảnh, đổi ảnh đại diện
+05:35 Giao diện English và Tiếng Việt
+06:08 Phát hiện mạng và tự đồng bộ
+06:48 Chống trùng, ACK và đồng bộ hai chiều
+07:41 Minh chứng kiểm thử và bàn giao
+
+Tổng thời lượng khoảng 08:20
